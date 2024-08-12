@@ -1,0 +1,7 @@
+#ejercicio #13
+contraseña_guardada = "sml"
+contraseña_introducida = input("Ingrese la contraseña: ")
+if contraseña_introducida.lower() == contraseña_guardada.lower():
+    print("La contraseña coincide.")
+else:
+    print("La contraseña no coincide.")
