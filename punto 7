@@ -1,0 +1,5 @@
+#ejercicio #7
+horas_trabajadas =float(input("¿Cuantas horas has trabajado?"))
+costo_por_hora =float(input("¿Cual es el costo por hora trabajada?"))   
+paga=horas_trabajadas*costo_por_hora
+print("tu pago es:",("pago_total"))
