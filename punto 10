@@ -1,4 +1,4 @@
-#ejercicio #9
+#ejercicio #10
 num_engranes = int(input("Ingrese el número de engranes vendidos: "))
 num_cilindros = int(input("Ingrese el número de cilindros vendidos: "))
 peso_engrane = 112  # Peso de cada engrane en gramos
