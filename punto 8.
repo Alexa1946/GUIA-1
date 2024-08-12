@@ -1,0 +1,7 @@
+#ejercicio #8
+peso=float(input("ingresa tu peso en kg:"))
+estatura=float(input("ingrasa tu estatura en metros:"))
+
+kgm=peso/(estatura**2)
+
+print(f"tu indice de Masa corporal es:")
