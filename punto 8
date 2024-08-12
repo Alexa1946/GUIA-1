@@ -1,0 +1,4 @@
+#ejercicio #8
+n=int(input("ingresa un numero entero posotivo:"))
+suma = n*(n+1)/2
+print(f"La suma de los primeros{n} enteros positivos es: \[{suma:.2f}\]")
