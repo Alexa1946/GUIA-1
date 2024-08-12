@@ -1,7 +1,0 @@
-#ejercicio #10
-num_engranes = int(input("Ingrese el número de engranes vendidos: "))
-num_cilindros = int(input("Ingrese el número de cilindros vendidos: "))
-peso_engrane = 112  # Peso de cada engrane en gramos
-peso_cilindro = 75  # Peso de cada cilindro en gramos
-peso_total = (num_engranes * peso_engrane + num_cilindros * peso_cilindro) / 1000
-print(f"El peso total del paquete que será enviado es: \[{peso_total:.2f} kg\]")
