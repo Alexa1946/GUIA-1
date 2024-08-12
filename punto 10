@@ -1,0 +1,5 @@
+# ejercicio #10
+precio_habitual = 3.49
+num_barras_no_frescas = int(input("Ingrese el número de barras de pan vendidas que no son del día: "))
+descuento = 0.6  # 60% de descuento
+costo_final = (num_barras_no_frescas * precio_habitual) * (1 - descuento)
