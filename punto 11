@@ -1,9 +1,0 @@
-# ejercicio #11
-precio_habitual = 3.49
-num_barras_no_frescas = int(input("Ingrese el número de barras de pan vendidas que no son del día: "))
-descuento = 0.6  # 60% de descuento
-costo_final = (num_barras_no_frescas * precio_habitual) * (1 - descuento)
-
-print(f"Precio habitual de una barra de pan: \[{precio_habitual:.2f} pesos\]")
-print(f"Descuento por no ser fresca: \[{descuento*100:.0f}%\]")
-print(f"Costo final total: \[{costo_final:.2f} pesos\]")
